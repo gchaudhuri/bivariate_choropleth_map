@@ -1,1 +1,2 @@
-# bivariate_choropleth_map
+# Bivariate Choropleth Map
+
